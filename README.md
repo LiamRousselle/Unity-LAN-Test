@@ -1,3 +1,7 @@
+Please note!
+This project was never finished, which would explain a few empty scripts and incomplete functions.
+I'm only putting this up on GitHub for my portfolio.
+
 # Unity LAN Test
  Simple LAN networking example done within Unity using Netcode for Gameobjects
  
